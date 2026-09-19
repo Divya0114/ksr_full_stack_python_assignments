@@ -1,0 +1,1 @@
+Git is a software tool that works on our computer to track the code/file changes without internet where as github is an online platform which runs on internet for hosting git repositories and it usually used for collaboration /sharing 
