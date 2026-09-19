@@ -1,0 +1,4 @@
+name:divya
+email:divya@gmail.com
+job status:working
+gender:female
