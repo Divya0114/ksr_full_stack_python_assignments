@@ -1,0 +1,5 @@
+Name: divya
+Course:Python
+Batch: batch1
+Location:Hyderabad
+Email:divyanagireddygari0114@gmail.com
