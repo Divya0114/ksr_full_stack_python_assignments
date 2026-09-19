@@ -3,4 +3,5 @@ Git
 GitHub
 SQL
 HTML
-java
+Java
+AI/ML
